@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonza Duarte</h1>
 <h3 align="center">PhD student in Physics and Space Sciences</h3>
-![texto alternativo](https://i.imgur.com/TMvhIbd.png)
+![texto alternativo](https://i.imgur.com/o7YvGRe.png)
 
 - 🌱 I’m currently learning **deep learning**
 
