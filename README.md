@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Duarte</h1>
 
-![](https://github.com/duartegonzaloariel/duartegonzaloariel/blob/main/nueva_portada.jpg)
+![](https://github.com/duartegonzaloariel/duartegonzaloariel/blob/main/nueva_portada2.jpg)
 
 
 ## 🌱 I’m currently learning 
