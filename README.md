@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gonza Duarte</h1>
+<h1 align="center">Hi 👋, I'm Gonzalo Duarte</h1>
 <h3 align="center">PhD student in Physics and Space Sciences</h3>
 
 ## 🌱 I’m currently learning 
