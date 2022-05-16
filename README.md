@@ -8,7 +8,7 @@
 - ![Email](https://img.shields.io/badge/gonzaloarielduarte@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 - ![Email](https://img.shields.io/badge/duartegonzalo@correo.ugr.es-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 
-
+## Technical Skills:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gduarte1983/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gduarte1983/" height="30" width="40" /></a>
