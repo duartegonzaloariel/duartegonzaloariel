@@ -2,7 +2,7 @@
 <h3 align="center">PhD student in Physics and Space Sciences</h3>
 
 ## 🌱 I’m currently learning 
-- Deep Learning
+- (https://img.shields.io/badge/Deep Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)
 
 ## 📫 How to reach me:
 - ![Email](https://img.shields.io/badge/gonzaloarielduarte@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
