@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Duarte</h1>
 <h3 align="center">PhD student in Physics and Space Sciences</h3>
 
-![align="center"](https://github.com/duartegonzaloariel/duartegonzaloariel/blob/main/1650584378002.jpg)
+![](https://github.com/duartegonzaloariel/duartegonzaloariel/blob/main/portada.jpg)
 
 
 ## 🌱 I’m currently learning 
