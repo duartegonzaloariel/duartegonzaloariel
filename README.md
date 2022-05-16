@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Duarte</h1>
-
-![](https://github.com/duartegonzaloariel/duartegonzaloariel/blob/main/1650584378002.jpg)
-
 <h3 align="center">PhD student in Physics and Space Sciences</h3>
+
+![align="center"](https://github.com/duartegonzaloariel/duartegonzaloariel/blob/main/1650584378002.jpg)
+
+
 ## 🌱 I’m currently learning 
 - Deep Learnig
 
